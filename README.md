@@ -1,11 +1,11 @@
-📅 Haftalık Akıllı İlaç Kutusu (Weekly Smart Medicine Box)
+### 📅 Haftalık Akıllı İlaç Kutusu (Weekly Smart Medicine Box)
 
 Bu proje, düzenli ilaç kullanan hastaların ilaç saatlerini takip etmelerini sağlayan, Arduino tabanlı bir donanım ve C# WPF ile geliştirilmiş bir masaüstü kontrol uygulamasından oluşmaktadır.
 
 Sistem, haftalık planlama yapılmasına olanak tanır ve ilgili gün/saat geldiğinde otomatik olarak doğru ilaç kutusunu (Sabah veya Akşam) açar.
 
-🌟 Özellikler
-🖥️ Masaüstü Uygulaması (C# WPF)
+###🌟 Özellikler
+#### 🖥️ Masaüstü Uygulaması (C# WPF)
 
 Modern Arayüz: Kullanıcı dostu, kart yapılı şık tasarım.
 
@@ -19,7 +19,7 @@ Canlı Takip: Anlık saat ve bağlantı durumu göstergesi.
 
 Ayar Yönetimi: İlaç alınmazsa çalacak alarmın bekleme süresini arayüzden değiştirme.
 
-🤖 Donanım (Arduino)
+#### 🤖 Donanım (Arduino)
 
 Çift Hazne Kontrolü: 2 adet Servo motor ile Sabah ve Akşam kutularını ayrı ayrı kontrol eder.
 
@@ -37,7 +37,7 @@ Güvenlik: Belirlenen sürede ilaç alınmazsa (kutu kapatılmazsa) yüksek sesl
 
 Manuel Kontrol: Fiziksel buton ile kutuyu kapatma ve alarmı susturma.
 
-🛠️ Donanım Gereksinimleri ve Bağlantı Şeması
+### 🛠️ Donanım Gereksinimleri ve Bağlantı Şeması
 
 Proje için aşağıdaki bileşenlere ihtiyacınız vardır:
 
@@ -52,7 +52,7 @@ Buzzer	D7	Sesli Uyarı
 
 Not: Servo motorlar harici bir güç kaynağı ile beslenmesi önerilir, ancak tekli kullanımlarda Arduino 5V çıkışı yeterli olabilir.
 
-🚀 Kurulum
+### 🚀 Kurulum
 1. Arduino Kısmı
 
 Arduino klasöründeki .ino uzantılı dosyayı açın.
@@ -82,7 +82,7 @@ string sabitPortAdi = "COM3"; // COM3, COM4 vb. olabilir.
 
 Projeyi derleyin ve çalıştırın (F5).
 
-📖 Kullanım
+### 📖 Kullanım
 
 Bağlantı: Uygulama açıldığında otomatik bağlanmayı dener. Bağlanmazsa "Bağlan" butonuna basın.
 
@@ -112,14 +112,14 @@ Unutulursa:
 
 Eğer kutu açık kalırsa (Varsayılan 60 sn), sistem Alarm Moduna geçer (Kırmızı LED + Sürekli Ses).
 
-📸 Ekran Görüntüleri
+### 📸 Ekran Görüntüleri
 
 ![IMG20260101175045](https://github.com/user-attachments/assets/a10e76e5-f465-4596-9f73-db64dd92b6e8)
 
 <img width="467" height="744" alt="Screenshot 2026-01-01 181516" src="https://github.com/user-attachments/assets/8cb464df-d241-48f6-b2f0-6e0fd6430658" />
 
 
-🤝 Katkıda Bulunma
+### 🤝 Katkıda Bulunma
 
 Bu projeyi Fork'layın.
 
