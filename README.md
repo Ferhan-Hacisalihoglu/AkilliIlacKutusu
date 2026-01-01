@@ -118,6 +118,16 @@ Eğer kutu açık kalırsa (Varsayılan 60 sn), sistem Alarm Moduna geçer (Kır
 
 ![IMG20260101175045](https://github.com/user-attachments/assets/a10e76e5-f465-4596-9f73-db64dd92b6e8)
 
+## 👥 Emeği Geçenler (Authors)
+
+Bu proje aşağıdaki geliştiriciler tarafından hazırlanmıştır:
+
+    Ferhan Hacısalihoğlu - [GitHub](https://github.com/Ferhan-Hacisalihoglu)
+
+    Selim Erdoğan - [GitHub](https://github.com/sel1mErdogan)
+
+    İbrahim Eskin - [GitHub](https://github.com/ibrahimeskin)
+
 ## 🤝 Katkıda Bulunma
 
 Bu projeyi Fork'layın.
