@@ -4,7 +4,7 @@ Bu proje, düzenli ilaç kullanan hastaların ilaç saatlerini takip etmelerini 
 
 Sistem, haftalık planlama yapılmasına olanak tanır ve ilgili gün/saat geldiğinde otomatik olarak doğru ilaç kutusunu (Sabah veya Akşam) açar.
 
-###🌟 Özellikler
+### 🌟 Özellikler
 #### 🖥️ Masaüstü Uygulaması (C# WPF)
 
 Modern Arayüz: Kullanıcı dostu, kart yapılı şık tasarım.
