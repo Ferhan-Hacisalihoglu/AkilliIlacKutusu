@@ -114,7 +114,9 @@ Eğer kutu açık kalırsa (Varsayılan 60 sn), sistem Alarm Moduna geçer (Kır
 
 ## 📸 Ekran Görüntüleri
 
-<img width="467" height="744" alt="Screenshot 2026-01-01 181516" src="https://github.com/user-attachments/assets/8cb464df-d241-48f6-b2f0-6e0fd6430658" />
+<img width="466" height="743" alt="Screenshot 2026-01-02 171420" src="https://github.com/user-attachments/assets/b3cfc390-6ac1-44ed-8618-4fe4ad008a91" />
+
+<img width="466" height="743" alt="Screenshot 2026-01-02 171353" src="https://github.com/user-attachments/assets/d9b02752-cd4a-4ead-a036-342ad0ca5bda" />
 
 ![IMG20260101175045](https://github.com/user-attachments/assets/a10e76e5-f465-4596-9f73-db64dd92b6e8)
 
